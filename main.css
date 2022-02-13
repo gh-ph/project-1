@@ -1,5 +1,5 @@
 * {box-sizing: border-box;}
 
 html {font: 14px/1.5 sans-serif;}
-body {}
-
+body {margin: 0;}
+container {width: 1366px; margin: 0 auto;}
